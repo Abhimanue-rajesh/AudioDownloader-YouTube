@@ -1,7 +1,7 @@
 # AudioDownloader-YouTube
 A GUI to download audio from YouTube. 
 
-Requiered Libraries 
+Requiered Libraries  
 -tkinter  
--customtkinter
+-customtkinter by https://github.com/TomSchimansky/CustomTkinter.git  
 -pytube 
