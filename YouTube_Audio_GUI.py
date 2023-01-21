@@ -12,7 +12,7 @@ customtkinter.set_default_color_theme("green")
 #main_window_managment
 root = customtkinter.CTk()
 root.title('Youtube Audio Downloader')
-window_width = 725
+window_width = 900
 window_height = 650
 screen_width = root.winfo_screenwidth()
 screen_height = root.winfo_screenheight()
